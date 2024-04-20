@@ -1,4 +1,4 @@
-Group Project: Android Quiz App
+Android Quiz App
 Welcome to our Android Quiz App project! Our app is designed to provide users with an engaging platform to test their knowledge on various topics. Whether you're a trivia enthusiast or just looking to learn something new, our app has got you covered. Let's dive into what makes our app special!
 
 Features
